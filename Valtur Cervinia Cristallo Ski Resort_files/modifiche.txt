@@ -1,0 +1,59 @@
+Sostituire:
+
+<div class="elementor-element elementor-element-f8eb8a9 nuss-accordion-style-03 elementor-widget elementor-widget-nuss-accordion animated nussFadeInUp" data-id="f8eb8a9" data-element_type="widget" data-settings="{&quot;hidden_border_bottom&quot;:&quot;unset&quot;,&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="nuss-accordion.default">
+					<div class="elementor-widget-container">
+						<div class="nuss-accordion nuss-accordion-icon-right">
+								<div class="accordion-section">
+						<div class="accordion-header">
+							<div class="accordion-title-wrapper">
+								<div class="accordion-title">SPORT INVERNALI</div>						</div>
+														<div class="accordion-icons">
+									<span class="accordion-icon opened-icon"><i class="fal fa-angle-down"></i></span>
+									<span class="accordion-icon closed-icon"><i class="fal fa-angle-up"></i></span>
+								</div>
+												</div>
+						<div class="accordion-content" style="display: none;">
+							<ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sci Alpino</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Snowboard</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Freeride</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sci di fondo (pista 1,3 km dal resort)</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pattinaggio su ghiaccio (direttamente in resort)</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sci sul ghiacciaio di Plateau Rosa (3.480 m)</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Snowboard Gravity Park (Plateau Rosa)</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pilates</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Palestra e fit bag Technogym</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Piscina&nbsp;</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Water Gym</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hydrobike</span></li></ul>					</div>
+					</div>
+						</div>
+					</div>
+					</div>
+
+Con:
+
+<div class="elementor-element elementor-element-f8eb8a9 nuss-accordion-style-03 elementor-widget elementor-widget-nuss-accordion animated nussFadeInUp" data-id="f8eb8a9" data-element_type="widget" data-settings="{&quot;hidden_border_bottom&quot;:&quot;unset&quot;,&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="nuss-accordion.default">
+					<div class="elementor-widget-container">
+						<aloe-collection uuid="1f01d894-c21e-6bd6-9b24-0edb3556f30d"></aloe-collection> 
+						<script src="https://demo.aloesuite.com/widget.js"></script>
+					</div>
+					</div>
+
+E sostituire:
+
+<div class="elementor-element elementor-element-4962072 nuss-accordion-style-03 elementor-widget elementor-widget-nuss-accordion animated nussFadeInUp" data-id="4962072" data-element_type="widget" data-settings="{&quot;hidden_border_bottom&quot;:&quot;unset&quot;,&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="nuss-accordion.default">
+					<div class="elementor-widget-container">
+						<div class="nuss-accordion nuss-accordion-icon-right">
+								<div class="accordion-section">
+						<div class="accordion-header">
+							<div class="accordion-title-wrapper">
+								<div class="accordion-title">ESPERIENZE INVERNALI</div>						</div>
+														<div class="accordion-icons">
+									<span class="accordion-icon opened-icon"><i class="fal fa-angle-down"></i></span>
+									<span class="accordion-icon closed-icon"><i class="fal fa-angle-up"></i></span>
+								</div>
+												</div>
+						<div class="accordion-content">
+							<ul><li style="font-weight: 400;" aria-level="1">Passeggiate con ciaspole, con escursioni a Lago Blu e Grande Muraglia</li><li style="font-weight: 400;" aria-level="1">Giro in motoslitta</li><li style="font-weight: 400;" aria-level="1">Heliski</li><li style="font-weight: 400;" aria-level="1">Voli panoramici sul Cervino</li><li style="font-weight: 400;" aria-level="1">Après Ski in Terrazza Panoramica</li><li style="font-weight: 400;" aria-level="1">Pranzo in Baita&nbsp;</li><li style="font-weight: 400;" aria-level="1">Matterhorn Alpine Crossing</li><li style="font-weight: 400;" aria-level="1">Family Kids Ice Park</li><li style="font-weight: 400;" aria-level="1">Visita Mercatini di Natale</li><li style="font-weight: 400;" aria-level="1">Visita ai Castelli della Valle D'Aosta</li><li aria-level="1">Visita a Chamois, la perla della Alpi</li></ul>					</div>
+					</div>
+						</div>
+					</div>
+					</div>
+
+Con:
+
+<div class="elementor-element elementor-element-4962072 nuss-accordion-style-03 elementor-widget elementor-widget-nuss-accordion animated nussFadeInUp" data-id="4962072" data-element_type="widget" data-settings="{&quot;hidden_border_bottom&quot;:&quot;unset&quot;,&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="nuss-accordion.default">
+					<div class="elementor-widget-container">
+						<aloe-collection uuid="1f01d894-c21e-6bd6-9b24-0edb3556f30d"></aloe-collection> 
+						<script src="https://demo.aloesuite.com/widget.js"></script>
+					</div>
+					</div>
